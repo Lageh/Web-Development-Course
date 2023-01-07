@@ -1,17 +1,17 @@
 body {
-        background-color: rgba(123, 255, 0, 0.781);
+        background-color: rgba(106, 235, 252, 0.164);
     }
 
     hr {
         background-color: none;
         border-style: none;
         border-top-style: dotted;
-        border-color: red;
-        border-width: 6px;
+        border-color: rgb(0, 0, 0);
+        border-width: 3px;
         height: 0px;
         width: 50%;
     }
 
     h1 {
-        color: blueviolet;
+        color: rgb(0, 204, 255);
     }

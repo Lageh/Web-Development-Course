@@ -21,9 +21,15 @@ body {
     }
 
     .profile{
-        height: 200px;
+        height: 150px;
+        border-radius: 100%;
     }
 
     tbody>tr>:not(:nth-child(3)){
         text-align-last: center;
+    }
+
+
+    #Headler{
+        color: blue;
     }
